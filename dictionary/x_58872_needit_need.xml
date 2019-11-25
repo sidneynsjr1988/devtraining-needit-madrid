@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="NeedIt" max_length="40" name="x_58872_needit_need" type="collection">
+        <element label="new fild 2" max_length="40" name="new_fild_2new_filed_2" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
+    </element>
+</database>
