@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="users_1" max_length="40" name="x_58872_needit_users_1" type="collection">
+        <element label="New True/False" max_length="40" name="u_boolean_3" type="boolean"/>
+        <element label="New Duration" max_length="40" name="u_glide_duration_2" type="glide_duration"/>
+    </element>
+</database>
